@@ -1,7 +1,1 @@
-This is a sample text file, text is OK
-
-
-
-
-
-
+This is a sample text file and text is OK!!!
