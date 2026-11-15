@@ -1,4 +1,4 @@
 This is a sample text file and text is OK!!file updating
 update the file and code update
-
+upadating directly on remote repo.
 
